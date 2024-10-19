@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #  OpenWeatherMap API key
-API_KEY = '8bd7eaa73d60fa03c1208bbc77283217'
+API_KEY = 'd9125b152daf4cec4302f2399bc0750e'
 
 # List of Indian cities and Karnataka districts to fetch weather data for
 cities = [
