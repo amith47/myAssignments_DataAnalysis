@@ -1,4 +1,3 @@
-www.1stepgrow.com / © Copyright 1stepGrow / All rights reservedwww.1stepgrow.com / © Copyright 1stepGrow / All rights reserved
 ASSIGNMENT 1 :
 Data Analytics Assignment: Employee Data Analysis and Visualization
 Objective:
@@ -50,7 +49,9 @@ and labeled.
 3. Publish your Python notebook/script and visualizations to your GitHub
 repository.
 4. Submit the public GitHub link to your repository with your final code and
-results.www.1stepgrow.com / © Copyright 1stepGrow / All rights reserved
+results.
+------------------------------------------------------------------------------------------------------------------------------
+
 ASSIGNMENT 2:
 Data Analytics Assignment: Weather Data Analysis Using OpenWeatherMap API
 Objective:
@@ -116,7 +117,8 @@ Submission Instructions:
 statement.
 3. Create the required visualizations and summarize your insights.
 4. Publish your Python script, report, and visualizations to your GitHub repository.
-5. Share the public GitHub link to your final submission.www.1stepgrow.com / © Copyright 1stepGrow / All rights reserved
+------------------------------------------------------------------------------------------------------------------------------
+
 ASSIGNMENT 3
 Data Analytics Assignment: Storing and Analyzing Data with SQLite Using Python
 Objective:
