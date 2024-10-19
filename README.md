@@ -23,7 +23,7 @@ generates the most sales?
 3.
 o Identify the top 5 employees with the highest sales and the top 5
 employees with the highest salaries.
-o Are the highest earners also the top performers in terms of sales?www.1stepgrow.com / © Copyright 1stepGrow / All rights reserved
+o Are the highest earners also the top performers in terms of sales?
 4.
 o Analyze the relationship between an employee's experience and their
 salary. Does more experience consistently lead to higher pay?
@@ -77,7 +77,7 @@ description, and wind speed.
 o Temperature Comparison:
 ▪ Compare the current temperatures across the selected cities.
 ▪ Identify the city with the highest and lowest temperature.
-o Humidity Analysis:www.1stepgrow.com / © Copyright 1stepGrow / All rights reserved
+o Humidity Analysis:
 ▪ Analyze the humidity levels and find which cities have the highest
 and lowest humidity.
 ▪ Is there a pattern between temperature and humidity across cities?
@@ -110,7 +110,7 @@ o At least 3 visualizations that provide insights into the weather data
 across cities.
 4. GitHub Upload:
 o Upload your code and visualizations to your GitHub repository.
-o Submit the public GitHub link to your repository.www.1stepgrow.com / © Copyright 1stepGrow / All rights reserved
+o Submit the public GitHub link to your repository.
 Submission Instructions:
 1. Register and get the API key from OpenWeatherMap.
 2. Fetch the weather data using Python and analyze it according to the problem
@@ -146,7 +146,7 @@ o Ensure you can insert, update, and delete records in your SQLite database
 as necessary.
 2. Database Querying and Analysis:
 o Write Python scripts to interact with your SQLite database and retrieve
-data for analysis.www.1stepgrow.com / © Copyright 1stepGrow / All rights reserved
+data for analysis.
 o Perform the following tasks by querying the database:
 ▪ City-wise Data Analysis:
 ▪ Retrieve and compare the current temperatures and
@@ -181,7 +181,7 @@ tables, insert records, etc.).
 o Python scripts that query the SQLite database to perform the analysis
 tasks mentioned above.
 o Present the results of your analysis (e.g., which city has the highest
-temperature, average humidity levels across all cities, etc.).www.1stepgrow.com / © Copyright 1stepGrow / All rights reserved
+temperature, average humidity levels across all cities, etc.).
 3. SQLite Database File:
 o Save the SQLite database (.db file) and include it in your GitHub
 repository.
